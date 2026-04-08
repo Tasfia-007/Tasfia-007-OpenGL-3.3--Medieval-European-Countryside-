@@ -1,0 +1,32 @@
+# Visual Studio build output
+x64/
+Debug/
+Release/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.log
+
+# Visual Studio cache/options
+.vs/
+
+# Video files
+*.mp4
+*.avi
+*.mkv
+
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+*.pch
+*.ipch
+
+# Visual Studio project user settings
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
